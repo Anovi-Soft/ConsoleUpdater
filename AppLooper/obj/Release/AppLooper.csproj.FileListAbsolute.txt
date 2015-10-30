@@ -1,0 +1,5 @@
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\AppLooper\bin\Release\AppLooper.exe.config
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\AppLooper\bin\Release\AppLooper.exe
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\AppLooper\bin\Release\AppLooper.pdb
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\AppLooper\obj\Release\AppLooper.exe
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\AppLooper\obj\Release\AppLooper.pdb

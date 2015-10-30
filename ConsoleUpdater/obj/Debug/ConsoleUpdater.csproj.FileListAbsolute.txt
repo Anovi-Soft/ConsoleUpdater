@@ -1,0 +1,8 @@
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\bin\Debug\ConsoleUpdater.exe.config
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\bin\Debug\ConsoleUpdater.exe
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\bin\Debug\ConsoleUpdater.pdb
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\bin\Debug\GitHub.dll
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\bin\Debug\Ionic.Zip.dll
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\bin\Debug\GitHub.pdb
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.exe
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\obj\Debug\ConsoleUpdater.pdb
