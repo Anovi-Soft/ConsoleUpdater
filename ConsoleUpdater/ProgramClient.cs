@@ -13,7 +13,7 @@ namespace ConsoleUpdater
     class ProgramClient
     {
         private static string serverIp = "127.0.0.1";
-        private static string processName = "Looper.exe";
+        private static string processName = "AppLooper";
         private static string folderProject = "looper";
         private static AdvancedSocket socket;
 
@@ -53,6 +53,7 @@ namespace ConsoleUpdater
             while (true)
             {
                 var packet = socket.RecivePacket(CommandType.Revert | CommandType.Update);
+
 
                 Console.WriteLine("{0}NEW VERSION{0}", new string('-', 30));
                 Console.WriteLine($"New in version ({packet.Args.First()}):");

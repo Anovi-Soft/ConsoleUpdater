@@ -6,3 +6,4 @@ C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\bin\Release\Ionic
 C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\bin\Release\GitHub.pdb
 C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\obj\Release\ConsoleUpdater.exe
 C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\obj\Release\ConsoleUpdater.pdb
+C:\Users\Andrew\Documents\GitHub\ConsoleUpdater\ConsoleUpdater\obj\Release\ConsoleUpdater.csprojResolveAssemblyReference.cache
